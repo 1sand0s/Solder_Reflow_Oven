@@ -1,0 +1,235 @@
+Cmp-Mod V01 Created by PcbNew   date = 6/30/2017 6:21:16 PM
+
+BeginCmp
+TimeStamp = 59564368
+Path = /59571FA1
+Reference = [NoRef];
+ValeurCmp = HE10-10;
+IdModule  = .pretty:he10-10d;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD23
+Path = /59548F13
+Reference = D1;
+ValeurCmp = PWR_LED;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954ACDB
+Path = /59532F0A
+Reference = C1;
+ValeurCmp = 2.2uf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954ACEC
+Path = /5953A88E
+Reference = C2;
+ValeurCmp = 10pf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954ACFD
+Path = /5953A8D1
+Reference = C3;
+ValeurCmp = 10pf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD0E
+Path = /59547FFC
+Reference = C4;
+ValeurCmp = 1uf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD38
+Path = /59549A74
+Reference = D2;
+ValeurCmp = TEST_LED;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD4D
+Path = /5954ACD6
+Reference = D3;
+ValeurCmp = PRE_HEAT_LED;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD62
+Path = /5954BB8D
+Reference = D4;
+ValeurCmp = COOL_LED;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD77
+Path = /5954B57C
+Reference = D5;
+ValeurCmp = REFLOW_LED;
+IdModule  = LEDs:LED_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD8B
+Path = /595334C2
+Reference = J1;
+ValeurCmp = Relay_Conn;
+IdModule  = Connectors:bornier2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AD9F
+Path = /59554C73
+Reference = P1;
+ValeurCmp = USB_B;
+IdModule  = Connectors:USB_A;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954ADC1
+Path = /5954E2AB
+Reference = R2;
+ValeurCmp = 22;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954ADD2
+Path = /5954E30E
+Reference = R3;
+ValeurCmp = 22;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954ADEF
+Path = /595477B9
+Reference = SW1;
+ValeurCmp = Reset;
+IdModule  = Buttons_Switches_SMD:SW_DIP_x1_W8.61mm_Slide_LowProfile;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AE0C
+Path = /595517E2
+Reference = SW2;
+ValeurCmp = TEST_SW;
+IdModule  = Buttons_Switches_SMD:SW_DIP_x1_W8.61mm_Slide_LowProfile;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AE2C
+Path = /595329EB
+Reference = U1;
+ValeurCmp = AD595AQ;
+IdModule  = AD595AQ:AD595AQ;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AE83
+Path = /5953F2E5
+Reference = U2;
+ValeurCmp = AT90USB646-MU;
+IdModule  = Housings_QFP:TQFP-64_14x14mm_Pitch0.8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954AE9E
+Path = /5953A7C8
+Reference = Y1;
+ValeurCmp = 16Mhz;
+IdModule  = Crystals:Crystal_AT310_d3.0mm_l10.0mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954B965
+Path = 
+Reference = REF***;
+ValeurCmp = KiCad-Logo2_12mm_SilkScreen;
+IdModule  = Symbols:KiCad-Logo2_8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5954B9A5
+Path = 
+Reference = REF***;
+ValeurCmp = OSHW-Logo2_9.8x8mm_SilkScreen;
+IdModule  = Symbols:OSHW-Logo2_9.8x8mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 59563164
+Path = /59565EDD
+Reference = C6;
+ValeurCmp = 0.1uf;
+IdModule  = Capacitors_SMD:C_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59563175
+Path = /595676F6
+Reference = R4;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59563186
+Path = /59567739
+Reference = R5;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59563197
+Path = /5956777E
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 595631A8
+Path = /595678BF
+Reference = R7;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59563365
+Path = /59567667
+Reference = R1;
+ValeurCmp = 1k;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 59564E19
+Path = /595784C3
+Reference = GS1;
+ValeurCmp = GS2;
+IdModule  = Connectors:GS2;
+EndCmp
+
+BeginCmp
+TimeStamp = 59564E27
+Path = /59579997
+Reference = GS3;
+ValeurCmp = GS4;
+IdModule  = Connectors:GS2;
+EndCmp
+
+EndListe

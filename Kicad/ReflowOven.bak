@@ -78,10 +78,10 @@ F 3 "" H 1550 1950 50  0000 C CNN
 	1    1550 1950
 	-1   0    0    1   
 $EndComp
-Text Label 1350 5050 0    60   ~ 0
-Iron
+Text Label 1150 5050 0    60   ~ 0
+TCOUPLE+
 Text Label 1150 5150 0    60   ~ 0
-Constantan
+TCOUPLE-
 Text Label 2950 4300 0    60   ~ 0
 Analog_out
 Text Label 4100 5450 0    60   ~ 0
@@ -610,5 +610,16 @@ F 2 "Connectors:USB_B" V 1200 2350 50  0001 C CNN
 F 3 "" V 1200 2350 50  0000 C CNN
 	1    1250 2450
 	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_01X02 P2
+U 1 1 59555CE0
+P 750 5100
+F 0 "P2" H 750 5250 50  0000 C CNN
+F 1 "CONN_01X02" V 850 5100 50  0000 C CNN
+F 2 "" H 750 5100 50  0001 C CNN
+F 3 "" H 750 5100 50  0000 C CNN
+	1    750  5100
+	-1   0    0    1   
 $EndComp
 $EndSCHEMATC
