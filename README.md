@@ -28,7 +28,7 @@ Octet/Duplet :- Every element tries to achieve this stable configuration where i
 
 Covalent Bonds :- The above Octet/Duplet is normally achieved by forming bonds where the elements share one or more of their valence electrons . These bonds are called Covalent bonds.
 
-Dipole Moment :- In covalent bonds , the electrons may not be shared equally . They may be drawn more towards one of the partiipating elements . Since electrons by definition represent -ve charge, the element towards which it is drawn becomes slightly -vely charged and the other becomes slightly +vely charged.
+Dipole Moment :- In covalent bonds , the electrons may not be shared equally . They may be drawn more towards one of the participating elements . Since electrons by definition represent -ve charge, the element towards which it is drawn becomes slightly -vely charged and the other becomes slightly +vely charged.
 
 Okay , now to the chemical reactions.
 
@@ -36,6 +36,8 @@ The hydrochloric acid has a covalent bond formed between hydrogen which requires
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/img1.jpg)
 
-Now, lets examine our hydrogen peroxide molecule . It has a covalent bond between two oxygen atoms and each of these oxygen atoms forms a covalent bond with hydrogen atoms . Thus , every atom in this molecule has achieved either a duplet or octet and thus the molecule is stable. However , like in our previous case , the peroxide molecule is polarized . Of-course there is no fight between the oxygen atoms since they are identical in every aspect but between the oxygen and hydrogen . Except that this dipole moment is stronger than that of HCL. As a result hydrogen and chlorine covalent bond dissociate with the hydrogen attacking the peroxide linkage resulting in formation of water molecules while the copper on the PCB surface reacts with chlorine to form copper(II)chloride.
+Now, lets examine our hydrogen peroxide molecule . It has a covalent bond between two oxygen atoms and each of these oxygen atoms forms a covalent bond with hydrogen atoms . Thus , every atom in this molecule has achieved either a duplet or octet and thus the molecule is stable. However , like in our previous case , the peroxide molecule is polarized . Of-course there is no fight between the oxygen atoms since they are identical in every aspect but between the oxygen and hydrogen . Except that this dipole moment is stronger than that of HCL. This provides the loosely bound hydrogen with a more electronegative oxygen to be attracted to , as a result hydrogen and chlorine covalent bond dissociate with the hydrogen attacking the peroxide linkage resulting in formation of water molecules while the copper on the PCB surface reacts with chlorine to form copper(II)chloride through ionic bond . (Note:- The bigger +ve and -ve imply stronger dipole moment/charge induction)
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/img2.jpg)
+
+
