@@ -14,7 +14,7 @@ For the toner transfer , after a few tries I experienced better results when aft
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/IMG20170707181938.jpg)
 
-I used a HP Laserjet M1005 printer and Oddy Photo Glossy Paper. I was initially apprehensive about using this glossy paper since its meant for inkjet but I have used it several times since writing this and its never caused any damage to my printer and the paper peels right off after ironing leaving behind an excellent finish(note: I changed the crystal footprint to SMD since I realized I had a few left from a previous experiment)
+I used a HP Laserjet M1005 printer and Oddy Photo Glossy Paper. I was initially apprehensive about using this glossy paper since its meant for inkjet but I have used it several times since writing this and its never caused any damage to my printer and the paper peels right off after ironing, leaving behind an excellent finish(note: I changed the crystal footprint to SMD since I realized I had a few left from a previous experiment)
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/IMG20170707183544.jpg)
 
