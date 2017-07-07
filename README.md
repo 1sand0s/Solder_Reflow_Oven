@@ -34,8 +34,8 @@ Okay , now to the chemical reactions.
 
 The hydrochloric acid has a covalent bond formed between hydrogen which requires an electron to become duplet and chlorine which also requires a single electron to achieve octet . However , the electrons are drawn more toward chlorine thereby making this bond polarized . This polarization makes HCL a pretty good acid since the slightly positive hydrogen has a tendancy to migrate from this HCL bond and attack other electronegative centres thus reducing them .
 
-![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/img1.png)
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/img1.jpg)
 
 Now, lets examine our hydrogen peroxide molecule . It has a covalent bond between two oxygen atoms and each of these oxygen atoms forms a covalent bond with hydrogen atoms . Thus , every atom in this molecule has achieved either a duplet or octet and thus the molecule is stable. However , like in our previous case , the peroxide molecule is polarized . Of-course there is no fight between the oxygen atoms since they are identical in every aspect but between the oxygen and hydrogen . Except that this dipole moment is stronger than that of HCL. As a result hydrogen and chlorine covalent bond dissociate with the hydrogen attacking the peroxide linkage resulting in formation of water molecules while the copper on the PCB surface reacts with chlorine to form copper(II)chloride.
 
-![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/img2.png)
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/img2.jpg)
