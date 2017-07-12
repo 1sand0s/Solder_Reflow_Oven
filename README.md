@@ -42,7 +42,7 @@ Now, lets examine our hydrogen peroxide molecule . It has a covalent bond betwee
 
 <h3>Procedure and Trial</h3>
 
-![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/courage.png)
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/courage.png) Watch what your doing ya fool!
 
 You want to get into a situation where you control the etching rate by adding hydrogen peroxide and not the acid .First , dilute the acid . LR grade HCL ships with 35-38% conc and in HCL terms that means very highly concentrated so treat it with respect , its real nasty stuff . Take a beaker and add about 150ml of water (preferably boiled and cooled but no fuss) , add to this about 10-12ml HCl using a bulb pipette . Don't mouth pipette , HCL fumes are nasty too . With this setup , slowly add hydrogen peroxide . HCL does not react with copper as it is since as we learnt in the previous section to break HCL bond we need a stronger electronegative centre than chlorine which is provided by oxygen of hydrogen peroxide(the dilution does cause the formation of hydronium ions but cuprous ions being below hydrogen in the reactivity series aren't very good in displacing hydrogen from HCL. 
 So carefully add hydrogen peroxide in steps of 5ml with max quantity being around 15-25ml. Do not exceed this . For your sake , I have done it and as the video shows , its not very pleasant.
