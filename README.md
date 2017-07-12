@@ -51,6 +51,8 @@ So carefully add hydrogen peroxide in steps of 5ml with max quantity being aroun
 
 Now coming back ,with each 5ml addition of peroxide you should observe the etching rate increase . When around 25ml of peroxide has been added , stop and stir with a glass rod . Stirring once again increases the etching rate . I usually do a trial with a spare bit of board before trying it on the actually design . This is how it went and you can see the etching rate increase with each addition of peroxide.
 
+[![Alt text](https://img.youtube.com/vi/2j04V60Lt_M/0.jpg)](https://www.youtube.com/watch?v=2j04V60Lt_M)
+
 Final result of trial 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/trial1.jpg)
 
