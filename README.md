@@ -44,7 +44,7 @@ Now, lets examine our hydrogen peroxide molecule . It has a covalent bond betwee
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/courage.png) Watch what your doing ya fool!
 
-You want to get into a situation where you control the etching rate by adding hydrogen peroxide and not the acid .First , dilute the acid . LR grade HCL ships with 35-38% conc and in HCL terms that means very highly concentrated so treat it with respect , its real nasty stuff . Take a beaker and add about 150ml of water (preferably boiled and cooled but no fuss) , add to this about 10-12ml HCl using a bulb pipette . Don't mouth pipette , HCL fumes are nasty too . With this setup , slowly add hydrogen peroxide . HCL does not react with copper as it is since as we learnt in the previous section to break HCL bond we need a stronger electronegative centre than chlorine which is provided by oxygen of hydrogen peroxide(the dilution does cause the formation of hydronium ions but cuprous ions being below hydrogen in the reactivity series aren't very good in displacing hydrogen from HCL. 
+You want to get into a situation where you control the etching rate by adding hydrogen peroxide and not the acid .First , dilute the acid . LR grade HCL ships with 35-38% conc and in HCL terms that means very highly concentrated so treat it with respect , its real nasty stuff . Take a beaker and add about 150ml of water (preferably boiled and cooled but no fuss) , add to this about 10-12ml HCl using a bulb pipette . Don't mouth pipette , HCL fumes are nasty too . With this setup , slowly add hydrogen peroxide . HCL does not react with copper as it is since as we learnt in the previous section to break HCL bond we need a stronger electronegative centre than chlorine which is provided by oxygen of hydrogen peroxide(the dilution does cause the formation of hydronium ions but cuprous ions being below hydrogen in the reactivity series aren't very good in displacing hydrogen from HCL). 
 So carefully add hydrogen peroxide in steps of 5ml with max quantity being around 15-25ml. Do not exceed this . For your sake , I have done it and added in a very high conc of HCl and H2O2 and as the below video shows , its not very pleasant.
 
 [![Alt text](https://img.youtube.com/vi/9dA6VMKz_Lo/0.jpg)](https://www.youtube.com/watch?v=9dA6VMKz_Lo)
@@ -61,7 +61,9 @@ Now for the real thing .
 [![Alt text](https://img.youtube.com/vi/Kl0KBu5w13I/0.jpg)](https://www.youtube.com/watch?v=Kl0KBu5w13I)
 
 
-Most forums do tell you that its possible to remove the toner with spirit but I tried and its pretty hard . On the other hand with acetone its a piece of cake.
+Most forums do tell you that its possible to remove the toner with spirit but I tried and its pretty hard . On the other hand with acetone its a piece of cake. Finally 
+
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/finish.jpg)
 
 
 
