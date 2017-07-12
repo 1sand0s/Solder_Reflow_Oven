@@ -63,7 +63,7 @@ Now for the real thing .
 
 Most forums do tell you that its possible to remove the toner with spirit but I tried and its pretty hard . On the other hand with acetone its a piece of cake. Finally 
 
-![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/finish.jpg)
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/finish1.jpg)
 
 
 
