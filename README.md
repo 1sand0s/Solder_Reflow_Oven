@@ -47,10 +47,12 @@ Now, lets examine our hydrogen peroxide molecule . It has a covalent bond betwee
 You want to get into a situation where you control the etching rate by adding hydrogen peroxide and not the acid .First , dilute the acid . LR grade HCL ships with 35-38% conc and in HCL terms that means very highly concentrated so treat it with respect , its real nasty stuff . Take a beaker and add about 150ml of water (preferably boiled and cooled but no fuss) , add to this about 10-12ml HCl using a bulb pipette . Don't mouth pipette , HCL fumes are nasty too . With this setup , slowly add hydrogen peroxide . HCL does not react with copper as it is since as we learnt in the previous section to break HCL bond we need a stronger electronegative centre than chlorine which is provided by oxygen of hydrogen peroxide(the dilution does cause the formation of hydronium ions but cuprous ions being below hydrogen in the reactivity series aren't very good in displacing hydrogen from HCL). 
 So carefully add hydrogen peroxide in steps of 5ml with max quantity being around 15-25ml. Do not exceed this . For your sake , I have done it and added in a very high conc of HCl and H2O2 and as the below video shows , its not very pleasant.
 
+ Video of what happens when you add excess HCl and H2O2
 [![Alt text](https://img.youtube.com/vi/9dA6VMKz_Lo/0.jpg)](https://www.youtube.com/watch?v=9dA6VMKz_Lo)
 
 Now coming back ,with each 5ml addition of peroxide you should observe the etching rate increase . When around 25ml of peroxide has been added , stop and stir with a glass rod . Stirring once again increases the etching rate . I usually do a trial with a spare bit of board before trying it on the actually design . This is how it went and you can see the etching rate increase with each addition of peroxide.
 
+Video of controlling etching rate with controlled addition of H2O2
 [![Alt text](https://img.youtube.com/vi/2j04V60Lt_M/0.jpg)](https://www.youtube.com/watch?v=2j04V60Lt_M)
 
 Final result of trial 
@@ -58,6 +60,7 @@ Final result of trial
 
 Now for the real thing . 
 
+Video of the final design etching
 [![Alt text](https://img.youtube.com/vi/Kl0KBu5w13I/0.jpg)](https://www.youtube.com/watch?v=Kl0KBu5w13I)
 
 
