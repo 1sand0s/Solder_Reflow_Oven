@@ -56,6 +56,7 @@ Final result of trial
 
 Now for the real thing . 
 
+[![Alt text](https://img.youtube.com/vi/Kl0KBu5w13I/0.jpg)](https://www.youtube.com/watch?v=Kl0KBu5w13I)
 
 
 Most forums do tell you that its possible to remove the toner with spirit but I tried and its pretty hard . On the other hand with acetone its a piece of cake.
