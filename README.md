@@ -66,7 +66,7 @@ Video of the final design etching
 [![Alt text](https://img.youtube.com/vi/Kl0KBu5w13I/0.jpg)](https://www.youtube.com/watch?v=Kl0KBu5w13I)
 
 
-Most forums do tell you that its possible to remove the toner with spirit but I tried and its pretty hard . On the other hand with acetone its a piece of cake. Finally 
+Most forums tell you that its possible to remove the toner with spirit but I tried and its pretty hard . On the other hand with acetone its a piece of cake. Finally 
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/finish1.jpg)
 
