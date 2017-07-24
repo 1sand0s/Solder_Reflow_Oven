@@ -1,5 +1,11 @@
 <h1>Solder Reflow Oven Controller (2014)</h1>
 
+<h2>Contents</h2>
+<h4>About</h4>
+<h4>Workflow</h4>
+<h4>Procedure and Trial</h4>
+<h4>Math Modelling of Toaster Oven</h4>
+
 <h3>About</h3>
 I built this during my fifth semester course on control systems. It uses a AT90USB646 mcu to implement PID along with a AD595AQ temperature sensor.
 This PCB was built at home using the PCB toner transfer method and hydrochloric acid/hydrogen peroxide as etchant. I hadn't found time to write a detailed procedure and stuff , so here goes
@@ -69,6 +75,10 @@ Video of the final design etching
 Most forums tell you that its possible to remove the toner with spirit but I tried and its pretty hard . On the other hand with acetone its a piece of cake. Finally 
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/finish1.jpg)
+
+<h3>Math Modelling of Toaster Oven</h3>
+
+Dealing with linear systems in control systems is a lot easier than with non-linear system . I did a trial run by turning on the taoster oven for 10 minutes and measured the AD595 output voltage by using the ADC on an arduino and plotted the data against time in Matlab. From AD595 datasheet the relation between temperature and AD595 output is linear and from the graph below we can see that the relation between the output voltage of AD595 and time is also linear therefore we can conclude that the rise in temperature of the toaster oven time is also linear(an approximation but it makes things a lot easier)
 
 
 
