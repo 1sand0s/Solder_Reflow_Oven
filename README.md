@@ -80,5 +80,6 @@ Most forums tell you that its possible to remove the toner with spirit but I tri
 
 Dealing with linear systems in control systems is a lot easier than with non-linear system . I did a trial run by turning on the taoster oven for 10 minutes and measured the AD595 output voltage by using the ADC on an arduino and plotted the data against time in Matlab. From AD595 datasheet the relation between temperature and AD595 output is linear and from the graph below we can see that the relation between the output voltage of AD595 and time is also linear therefore we can conclude that the rise in temperature of the toaster oven time is also linear(an approximation but it makes things a lot easier)
 
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/Toaster_oven_ad595_Volatge_vs_time.jpg)
 
 
