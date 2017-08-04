@@ -76,6 +76,14 @@ Most forums tell you that its possible to remove the toner with spirit but I tri
 
 ![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/IMG20170804092257[1].jpg)
 
+To protect the board and to make it easier for soldering , I used <a href="https://erp.suntechcircuits.com/reffile/035C1F2C-AFB7-4E42-BFAE-1057683B9CB5.pdf">KSM-s6189</a> as the soldermak . This is a photoimageable ink and works slightly differently than the traditional UV soldermsk in that it requires to be pre-heated to 75 degree celsius before UV exposure followed by developing in an aqueos solution of sodium/potassium carbonate (I used cooking soda which is sodium bicarbonate but it worked fine)  and post-heated to 150 degree celsius post exposure and development.Exposing the board
+
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/IMG20170804114136[1].jpg)
+
+The final board.
+
+![alt text](https://raw.githubusercontent.com/1sand0s/Solder_Reflow_Oven/master/IMG20170804131910[1].jpg)
+
 <h3>Math Modelling of Toaster Oven</h3>
 
 Dealing with linear systems in control systems is a lot easier than with non-linear system . To prove an approximate linear relation arguement I started by turning on the toaster oven for 10 minutes and measured the AD595 output voltage by using the ADC on an arduino and plotted the data against time in Matlab. From AD595 datasheet the relation between temperature and AD595 output is linear and from the graph below we can see that the relation between the output voltage of AD595 and time is also linear therefore we can conclude that the rise in temperature of the toaster oven against time is also linear(an approximation but it makes things a lot easier)
